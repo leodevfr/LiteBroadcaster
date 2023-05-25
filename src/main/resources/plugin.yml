@@ -1,0 +1,9 @@
+name: LiteBroadcaster
+version: '1.0.0'
+main: org.plugins.litebroadcaster.LiteBroadcaster
+api-version: 1.19
+commands:
+  litebroadcaster:
+    description: Affiche les informations du plugin
+    usage: /litebroadcaster
+    permission: litebroadcaster.use

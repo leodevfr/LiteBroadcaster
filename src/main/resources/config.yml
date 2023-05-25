@@ -1,0 +1,9 @@
+messages:
+  - message: "&aCeci est le premier message."
+    onScreen: true
+  - message: "&bCeci est le deuxième message."
+    onScreen: false
+  - message: "&cCeci est le troisième message."
+    onScreen: true
+
+interval: 10
